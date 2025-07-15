@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">🍳 Recetario Gourmet</string>
+    <string name="app_description">Tu compañero culinario personal</string>
+    
+    <!-- Navegación -->
+    <string name="nav_explore">Explorar</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_add">Agregar</string>
+    
+    <!-- Búsqueda -->
+    <string name="search_hint">Buscar recetas...</string>
+    <string name="voice_search">Búsqueda por voz</string>
+    <string name="voice_listening">Escuchando...</string>
+    <string name="voice_error">Error de reconocimiento de voz</string>
+    
+    <!-- Categorías -->
+    <string name="category_all">Todas</string>
+    <string name="category_breakfast">Desayuno</string>
+    <string name="category_lunch">Almuerzo</string>
+    <string name="category_dinner">Cena</string>
+    <string name="category_dessert">Postre</string>
+    <string name="category_snack">Snack</string>
+    <string name="category_beverage">Bebida</string>
+    
+    <!-- Recetas -->
+    <string name="recipe_random">Receta Aleatoria</string>
+    <string name="recipe_add">Agregar Receta</string>
+    <string name="recipe_edit">Editar Receta</string>
+    <string name="recipe_delete">Eliminar Receta</string>
+    <string name="recipe_favorite">Agregar a Favoritos</string>
+    <string name="recipe_unfavorite">Quitar de Favoritos</string>
+    
+    <!-- Detalles -->
+    <string name="detail_ingredients">Ingredientes</string>
+    <string name="detail_steps">Pasos de preparación</string>
+    <string name="detail_servings">Porciones</string>
+    <string name="detail_time">Tiempo</string>
+    <string name="detail_difficulty">Dificultad</string>
+    
+    <!-- Estados -->
+    <string name="state_empty">No hay recetas disponibles</string>
+    <string name="state_empty_favorites">No tienes favoritos aún</string>
+    <string name="state_empty_message">Agrega tu primera receta tocando el botón +</string>
+    <string name="state_empty_favorites_message">Agrega recetas a favoritos para verlas aquí</string>
+    
+    <!-- Diálogos -->
+    <string name="dialog_delete_title">¿Eliminar receta?</string>
+    <string name="dialog_delete_message">Esta acción no se puede deshacer. La receta se eliminará permanentemente.</string>
+    <string name="dialog_confirm">Confirmar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_delete">Eliminar</string>
+    
+    <!-- Accesibilidad -->
+    <string name="accessibility_back">Volver</string>
+    <string name="accessibility_search">Buscar</string>
+    <string name="accessibility_voice">Búsqueda por voz</string>
+    <string name="accessibility_favorite">Favorito</string>
+    <string name="accessibility_add">Agregar</string>
+    <string name="accessibility_edit">Editar</string>
+    <string name="accessibility_delete">Eliminar</string>
+</resources>
